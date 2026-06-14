@@ -29,29 +29,8 @@
 ##  프로젝트 구조
 
 \`\`\`
-BallLog/
-├── Models/
-│   └── Models.swift
-├── Services/
-│   ├── MLBService.swift
-│   ├── TeamInfoService.swift
-│   └── NotificationManager.swift
-├── Stores/
-│   ├── PredictionStore.swift
-│   ├── PointStore.swift
-│   ├── PointHistoryStore.swift
-│   └── FavoriteTeamStore.swift
-├── ViewControllers/
-│   ├── ViewController.swift
-│   ├── YesterdayResultViewController.swift
-│   ├── PredictionHistoryViewController.swift
-│   ├── PredictionInputViewController.swift
-│   ├── TeamInfoViewController.swift
-│   └── SearchViewController.swift
-├── Views/
-│   └── GameCell.swift
-└── Utils/
-    └── LevelManager.swift
+<img width="398" height="517" alt="image" src="https://github.com/user-attachments/assets/c73cdd24-0e1b-453c-ba5e-7406e12fbd70" />
+
 \`\`\`
 
 ## 실행 방법
