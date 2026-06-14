@@ -33,17 +33,7 @@
 
 \`\`\`
 
-## 실행 방법
 
-\`\`\`
-1. 레포 클론
-git clone https://github.com/본인아이디/BallLog.git
-
-2. Xcode 12.5 이상에서 열기
-open BallLog.xcodeproj
-
-3. 시뮬레이터 또는 실기기에서 실행
-\`\`\`
 
 ## 포인트 레벨 시스템
 
