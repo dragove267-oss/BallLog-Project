@@ -45,6 +45,29 @@
 | 💎 다이아몬드 | 301 ~ 500점 |
 | 👑 챔피언 | 501점 이상 |
 
+
+##  결과물
+
+\`\`\`
+오늘의 경기 화면
+<img width="373" height="652" alt="image" src="https://github.com/user-attachments/assets/02341d45-a042-49e3-8196-24a05989a471" />
+
+즐겨찾기 화면
+<img width="374" height="652" alt="image" src="https://github.com/user-attachments/assets/6632f1e0-c17e-4272-975b-6b356e7e3ff2" />
+
+예측화면
+<img width="370" height="651" alt="image" src="https://github.com/user-attachments/assets/159b1c51-ed3a-4a89-884a-4657264b0e84" />
+
+<img width="371" height="654" alt="image" src="https://github.com/user-attachments/assets/4847675e-877c-448b-9e75-6e2774cd1075" />
+
+
+검색화면
+<img width="373" height="650" alt="image" src="https://github.com/user-attachments/assets/7f4feb7f-7ed1-4f21-8fc4-d05981976282" />
+
+
+
+\`\`\`
+
 ## 시연 영상
 <!-- 시연 영상 및 스크린샷 추가 예정 -->
 https://www.youtube.com/watch?v=Ivr9CuO-raY
