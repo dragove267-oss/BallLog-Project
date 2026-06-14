@@ -26,7 +26,7 @@
 | API | MLB Stats API |
 | 개발 환경 | Xcode 12.5 
 
-## 프로젝트 구조
+##  프로젝트 구조
 
 \`\`\`
 BallLog/
